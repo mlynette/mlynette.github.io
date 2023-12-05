@@ -1,3 +1,3 @@
 # mlynette.github.io
 Maria Lynette D. Lirag
-theme: jekyll-theme-merlot
+theme:jekyll-theme-merlot
