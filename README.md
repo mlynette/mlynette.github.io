@@ -1,2 +1,2 @@
 ## Painting Styles Throughout Centuries
-Maria Lynette D. Lirag
+> "Painting is just another way of keeping a diary"
