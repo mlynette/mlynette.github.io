@@ -4,3 +4,4 @@
 ## 7 Major Painting styles 
 ### Realism 
 ![image](https://github.com/mlynette/mlynette.github.io/assets/151596918/0804013e-e931-4859-a3b4-6a4365fc057e)
+Realism is a painting style that is 
