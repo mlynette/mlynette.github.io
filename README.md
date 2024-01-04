@@ -4,4 +4,4 @@
 ## 7 Major Painting styles 
 ### Realism 
 ![image](https://github.com/mlynette/mlynette.github.io/assets/151596918/0804013e-e931-4859-a3b4-6a4365fc057e)
-Realism is a painting style that is 
+Realism is a painting style in which the subject of the painting looks much like the real thing rather than being stylized or abstracted. It is the painting style that most people consider as "real art". When you look at it up close, you can see the different strokes and colors used to create the illusion of space and depth, setting the composition and lighting. 
